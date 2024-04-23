@@ -4740,7 +4740,6 @@ __metadata:
     encoding: ^0.1.13
     ethers: ^5.1.4
     immer: ^9.0.6
-    jotai: ^1.3.7
     jsbi: ^3.1.4
     make-plural: ^7.0.0
     ms.macro: ^2.0.0
@@ -10950,43 +10949,6 @@ __metadata:
     "@sideway/formula": ^3.0.1
     "@sideway/pinpoint": ^2.0.0
   checksum: 055df3841e00d7ed065ef1cc3330cf69097ab2ffec3083d8b1d6edfd2e25504bf2983f5249d6f0459bcad99fe21bb0c9f6f1cc03569713af27cd5eb00ee7bb7d
-  languageName: node
-  linkType: hard
-
-"jotai@npm:^1.3.7":
-  version: 1.6.0
-  resolution: "jotai@npm:1.6.0"
-  peerDependencies:
-    "@babel/core": "*"
-    "@babel/template": "*"
-    "@urql/core": "*"
-    immer: "*"
-    optics-ts: "*"
-    react: ">=16.8"
-    react-query: "*"
-    valtio: "*"
-    wonka: "*"
-    xstate: "*"
-  peerDependenciesMeta:
-    "@babel/core":
-      optional: true
-    "@babel/template":
-      optional: true
-    "@urql/core":
-      optional: true
-    immer:
-      optional: true
-    optics-ts:
-      optional: true
-    react-query:
-      optional: true
-    valtio:
-      optional: true
-    wonka:
-      optional: true
-    xstate:
-      optional: true
-  checksum: fb8ec6e283f56b063e0bf479f6b4455e843b1ef07e4bf5a25b30f4c31812f1823b6ea035a278f2a317daabc7ae55b8f44e19e23bb75647a1c912b313bc87506e
   languageName: node
   linkType: hard
 
